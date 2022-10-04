@@ -7,3 +7,6 @@
 ```
 System.out.println("Hello World!");
 ```
+- [x] This is the #1 task!
+- [x] This is a task that has been completed!
+- [ ] This is an incomplete task!
